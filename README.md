@@ -31,7 +31,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/mercadolivre-clone/blob/master/screenshots/discordclone.gif" />
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/mercadolivre-clone/blob/master/screenshot/mercado-livre-ui.png" />
 </h1>
 
 <p>This is a project that consists of creating a clone of the Mercado Livre website, more precisely a product page that was designed from an online class. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
