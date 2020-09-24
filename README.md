@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Mercado Livre logo" src="https://github.com/eltonlazzarin/mercadolivre-clone/blob/master/screenshot/mercadolivre-logo.png" height="150px" width="150px" />
+	<img alt="Mercado Livre logo" src="https://github.com/eltonlazzarin/mercadolivre-clone/blob/master/screenshot/mercadolivre-logo.png" height="150px" width="250px" />
 </h1>
 
 <h3 align="center">
