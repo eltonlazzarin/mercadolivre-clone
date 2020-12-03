@@ -53,7 +53,7 @@ const ProductAction: React.FC = () => {
         <div>
           <span className="title">Free shipping</span>
           <span className="details">With your MASTERCARD ended in 5701</span>
-          <a href="#" className="more">
+          <a href="https://google.com" className="more">
             See more options
           </a>
         </div>
