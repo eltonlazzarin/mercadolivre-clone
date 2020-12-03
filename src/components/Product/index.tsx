@@ -61,7 +61,7 @@ const WarrantySection = () => (
       </span>
     </div>
 
-    <a href="#">Learn more about warranty</a>
+    <a href="https://google.com" >Learn more about warranty</a>
   </Section>
 );
 
